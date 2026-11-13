@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://margo-sladosti.ru/sitemap.xml
